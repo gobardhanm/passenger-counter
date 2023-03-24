@@ -1,5 +1,5 @@
 body{
-    background-image: url("images/subway-img.jpg");
+    background-image: url("images/subwayy.jpg");
     background-size: cover;
     font-weight: bold;
     text-align: center;
@@ -33,4 +33,10 @@ button {
 
 #save-btn {
     background: darkgreen;
+}
+
+p{
+    margin-top: 40px;
+    font-weight: bold;
+    font-size: x-large;
 }
